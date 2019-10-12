@@ -1,0 +1,11 @@
+node liri.js spotify-this
+
+node liri.js spotify-this the wall
+
+node liri concert-this ozzy osbourne
+
+node liri.js movie-this
+
+node liri.js movie-this the fifth element
+
+node liri do-what-it-says
