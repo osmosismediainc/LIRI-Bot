@@ -5,10 +5,6 @@ The app working:
 
 https://youtu.be/YRIHFjyu3CY
 
-![videoWorking](/Users/dan/Documents/UNCC-Bootcamp/homework/liri-node-app/videoWorking.gif)
-
-
-
 ## What is it?
 
 The LIRI bot is a node application that simulates the functionality of Apple's SIRI in a very limited manner. The app has the ability to run the following functions:
